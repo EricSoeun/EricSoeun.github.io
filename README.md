@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
+<h1 align="center">Hi 👋, I'm Eric or Ekokoro</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
 ![Banner](https://u.cubeupload.com/Sono/header.png)
 
