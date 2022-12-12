@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
-![Banner](https://u.cubeupload.com/Sono/header.png "Banner")
+![Banner](https://u.cubeupload.com/Sono/header.png)
 
 - 🔭 I’m currently working on [Web4All](https://web4all.vercel.app/), a platform to learn and test your knowledge of web languages through quizzes and mini-games.
 
